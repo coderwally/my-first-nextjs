@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
         <div className={styles.twitterlink}>
           <FaTwitter /> 
-          <Link href="https://twitter.com/traderwally7">@traderwally7</Link>
+          <Link target='_blank' href='https://twitter.com/traderwally7'>@traderwally7</Link>
           <FaTwitter /> 
         </div>
       </main>
